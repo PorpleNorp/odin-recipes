@@ -1,0 +1,26 @@
+h1,
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+ul {
+    color: white;
+    background-color: white;
+    text-align: center;
+}
+/* Decided to hide the list dots */ 
+
+.front-button {
+    background-color: aliceblue;
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
+}
